@@ -1,0 +1,13 @@
+1. open the folder chat application
+2. open in VS code
+3. create index.js file
+4. open new terminal in that
+5. command------ npm init
+     Enter
+              It will create package.json
+6. open package.json
+7. In terminal type----- npm i --save-dev nodemon
+     Enter
+8. In Package.json--- Delete Script
+     "nodemon":"nodemon index.js"
+9. teminal type----- npm run nodemon
