@@ -11,8 +11,8 @@ Download this Project and open with Live Server
 * HTML
 * CSS
 * JavaScript
-# NodeJS
-# Nodemon
-# Socket.io-Backend
+* NodeJS
+* Nodemon
+* Socket.io-Backend
 
 # Enjoy !!
